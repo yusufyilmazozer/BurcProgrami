@@ -26,7 +26,7 @@ public class burcBulma {
             }
         }
         if (month == 2) {
-            if (day >= 1 && day <= 28) {
+            if (day >= 1 && day <= 29) {
                 if (day <= 19) {
                     burc = "Kova";
                 } else {
